@@ -40,10 +40,9 @@ Git-Hub for building this Project .We also used tools like Github for hosting ou
 *  Order Page:
 * ![Screenshot_32](https://github.com/surjesh-yadav/Projects-Photos/blob/main/order.png)
 
-
-
-Surjesh Yadav
-* Github : Surjesh-Yadav
+contributers
+surjesh yadav
+arman rasool
 
 
 
